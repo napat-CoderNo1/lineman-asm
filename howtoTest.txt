@@ -1,0 +1,9 @@
+API
+1. go run main.go
+
+2. new terminal -> curl http://localhost:8080/covid/summary
+
+3. or use postman -> GET http://localhost:8080/covid/summary
+
+Test
+1. go test
